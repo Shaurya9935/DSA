@@ -424,5 +424,5 @@ int main()
     int x;
     cin>> x;
     cout<<endl<<endl;
-    print22(x);
+    print21(x);
 }
